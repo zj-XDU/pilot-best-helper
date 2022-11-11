@@ -1,1 +1,5 @@
-# pilot-best-helper
+# PILOT-BEST-HLEPER
+
+## 这个固件用于自研气压计和陀螺仪核心板的驱动
+
+### 当前上传的版本是V1
